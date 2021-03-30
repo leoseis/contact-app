@@ -1,0 +1,64 @@
+
+            .reports{
+              color: rgba(10, 1, 1, 0.63);
+                font-size: 30px;
+                font-family: sans-serif;
+                padding: 40px;
+                margin: 20px;
+                border-radius: 20px;
+                backface-visibility: visible;
+                background-color:rgba(123, 214, 214, 0.103);
+                border: solid rgba(121, 119, 115, 0.884);
+                background-color:rgba(221, 230, 231, 0.856)    
+            }
+
+            .intro{
+              color: #412855;
+            }
+
+            .about{
+            font-family: sans-serif;
+            padding: 70px;
+            background-color:rgba(221, 230, 231, 0.856);
+            font-size: 25px;
+            color: rgba(10, 1, 1, 0.63);
+            }
+
+            li{
+              
+              text-transform: uppercase;  
+              padding: 0 20px 0 20px;
+              display: inline;
+              font-family: sans-serif;
+            }
+
+            li{
+              
+            margin: 20px;
+            padding: 20px;
+            }
+            
+            .primary-btn{
+              color :white;
+              background :#595961;
+              padding : 13px 23px 23px 13px;
+              border-radius :20px;
+              text-decoration : none;
+              height: 10px; width: 5px;
+            
+              
+            }
+
+            nav{
+              float: right;
+              display:inline;
+            }
+             body{
+              background:url("images/fighting.jpg")
+
+             }
+
+
+
+        
+          
